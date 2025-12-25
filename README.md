@@ -1,6 +1,6 @@
 ## Hi, I’m Ramin 👋
 
-Applied Data Scientist / ML Engineer with a background in electrical engineering and experience in time-series forecasting, optimization, and data pipelines.
+Applied Data Scientist with a background in electrical engineering and experience in time-series forecasting, optimization, and data pipelines.
 
 My work focuses on:
 - Time-series analysis and forecasting
